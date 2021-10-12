@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Glory:wght@500&display=swap');
-
 html {
     box-sizing: border-box;
 }
@@ -7,7 +6,6 @@ body{
     margin: 0;
     font-family: 'Glory', sans-serif;
     background: whitesmoke;
-  
 }
 h1{
     text-align: center;
@@ -39,7 +37,6 @@ h1{
     width: 100%;
     margin-top: 5px;
 }
-
 /* Media Query: Large Smartphone */
 @media screen and (max-width: 600px){
     h1{
